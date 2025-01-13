@@ -4,7 +4,7 @@ const path = require('path');
 const cors = require('cors');
 
 const app = express();
-const PORT = 4000;
+const PORT = 3000;
 
 // JSON 파일 경로
 const USERS_FILE = path.join(__dirname, 'users.json');
@@ -25,7 +25,7 @@ if (!fs.existsSync(INVITE_CODES_FILE)) {
 app.use(express.json());
 app.use(express.static('public')); // 정적 파일 제공
 app.use(cors({
-    origin: ['http://175.209.134.115:4000', 'http://localhost:4000'], // 허용할 도메인
+    origin: ['http://211.188.61.45:3000'], // 허용할 도메인
     methods: ['GET', 'POST'],
     credentials: true,
 }));

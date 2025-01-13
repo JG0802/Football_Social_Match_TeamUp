@@ -489,7 +489,7 @@
             }
 
             // 초대코드에 포함된 사용자 목록 및 선호 포지션 가져오기
-            fetch('http://localhost:4000/invite/usersAndPositions', {
+            fetch('http://211.188.61.45:3000/invite/usersAndPositions', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ inviteCode }),
@@ -546,7 +546,7 @@
             }
     
             // 서버로 저장 요청
-            fetch('http://localhost:4000/invite/save', {
+            fetch('http://211.188.61.45:3000/invite/save', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -570,7 +570,7 @@
     
         // 초대코드에 포함된 사용자 목록 표시
         function loadInviteUsers() {
-            fetch('http://localhost:4000/invite/users', {
+            fetch('http://211.188.61.45:3000/invite/users', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ inviteCode }),

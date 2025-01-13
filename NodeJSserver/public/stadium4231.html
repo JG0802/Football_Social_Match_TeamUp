@@ -400,7 +400,7 @@
             document.getElementById('position3').textContent = userData.positions[2];
         }
 
-        fetch('http://localhost:4000/invite/positions', {
+        fetch('http://211.188.61.45:3000/invite/positions', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ inviteCode })
@@ -440,7 +440,7 @@
                 }
 
         // 초대코드에 포함된 사용자 목록을 서버에서 가져오는 함수
-        fetch('http://localhost:4000/invite/users', {
+        fetch('http://211.188.61.45:3000/invite/users', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

@@ -217,7 +217,7 @@
             userData.inviteCode = inviteCode;
             localStorage.setItem('userData', JSON.stringify(userData));
     
-            fetch('http://localhost:4000/invite/create', {
+            fetch('http://211.188.61.45:3000/invite/create', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -243,7 +243,7 @@
         function loadUserInviteCodes() {
             const username = userData.username;
     
-            fetch('http://localhost:4000/invite/user-codes', {
+            fetch('http://211.188.61.45:3000/invite/user-codes', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ username }),
@@ -314,7 +314,7 @@
             userData.inviteCode = inviteCode;
             localStorage.setItem('userData', JSON.stringify(userData));
     
-            fetch('http://localhost:4000/invite/join', {
+            fetch('http://211.188.61.45:3000/invite/join', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
