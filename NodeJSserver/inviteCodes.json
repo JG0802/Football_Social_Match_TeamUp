@@ -1,0 +1,322 @@
+[
+  {
+    "inviteCode": "2002",
+    "formation": "442",
+    "users": [
+      "이운재",
+      "홍명보",
+      "최진철",
+      "김태영",
+      "송종국",
+      "유상철",
+      "이영표",
+      "박지성",
+      "설기현",
+      "황선홍",
+      "안정환",
+      "test"
+    ],
+    "positions": [
+      {
+        "position": 1,
+        "user": "none"
+      },
+      {
+        "position": 2,
+        "user": "none"
+      },
+      {
+        "position": 3,
+        "user": "none"
+      },
+      {
+        "position": 4,
+        "user": "none"
+      },
+      {
+        "position": 5,
+        "user": "none"
+      },
+      {
+        "position": 6,
+        "user": "none"
+      },
+      {
+        "position": 7,
+        "user": "none"
+      },
+      {
+        "position": 8,
+        "user": "none"
+      },
+      {
+        "position": 9,
+        "user": "none"
+      },
+      {
+        "position": 10,
+        "user": "none"
+      },
+      {
+        "position": 11,
+        "user": "none"
+      }
+    ]
+  },
+  {
+    "inviteCode": "맨체스터 유나이티드",
+    "formation": "4231",
+    "users": [
+      "오나나",
+      "달롯",
+      "바란",
+      "마르티네스",
+      "쇼",
+      "카세미루",
+      "에릭센",
+      "페르난데스",
+      "래시포드",
+      "안토니",
+      "호일룬",
+      "test"
+    ],
+    "positions": [
+      {
+        "position": 1,
+        "user": "none"
+      },
+      {
+        "position": 2,
+        "user": "none"
+      },
+      {
+        "position": 3,
+        "user": "none"
+      },
+      {
+        "position": 4,
+        "user": "none"
+      },
+      {
+        "position": 5,
+        "user": "none"
+      },
+      {
+        "position": 6,
+        "user": "none"
+      },
+      {
+        "position": 7,
+        "user": "none"
+      },
+      {
+        "position": 8,
+        "user": "none"
+      },
+      {
+        "position": 9,
+        "user": "none"
+      },
+      {
+        "position": 10,
+        "user": "none"
+      },
+      {
+        "position": 11,
+        "user": "none"
+      }
+    ]
+  },
+  {
+    "inviteCode": "리버풀",
+    "formation": "433",
+    "users": [
+      "알리송",
+      "알렉산더아놀드",
+      "반다이크",
+      "코나테",
+      "로버트슨",
+      "맥알리스터",
+      "소보슬라이",
+      "디아스",
+      "살라",
+      "누녜스",
+      "조타",
+      "test"
+    ],
+    "positions": [
+      {
+        "position": 1,
+        "user": "none"
+      },
+      {
+        "position": 2,
+        "user": "none"
+      },
+      {
+        "position": 3,
+        "user": "none"
+      },
+      {
+        "position": 4,
+        "user": "none"
+      },
+      {
+        "position": 5,
+        "user": "none"
+      },
+      {
+        "position": 6,
+        "user": "none"
+      },
+      {
+        "position": 7,
+        "user": "none"
+      },
+      {
+        "position": 8,
+        "user": "none"
+      },
+      {
+        "position": 9,
+        "user": "none"
+      },
+      {
+        "position": 10,
+        "user": "none"
+      },
+      {
+        "position": 11,
+        "user": "none"
+      }
+    ]
+  },
+  {
+    "inviteCode": "인터밀란",
+    "formation": "352",
+    "users": [
+      "좀머",
+      "슈크리니아르",
+      "데브리",
+      "바스토니",
+      "둠프리스",
+      "바렐라",
+      "차르하노글루",
+      "브로조비치",
+      "디마르코",
+      "마르티네스",
+      "제코",
+      "test"
+    ],
+    "positions": [
+      {
+        "position": 1,
+        "user": "none"
+      },
+      {
+        "position": 2,
+        "user": "none"
+      },
+      {
+        "position": 3,
+        "user": "none"
+      },
+      {
+        "position": 4,
+        "user": "none"
+      },
+      {
+        "position": 5,
+        "user": "none"
+      },
+      {
+        "position": 6,
+        "user": "none"
+      },
+      {
+        "position": 7,
+        "user": "none"
+      },
+      {
+        "position": 8,
+        "user": "none"
+      },
+      {
+        "position": 9,
+        "user": "none"
+      },
+      {
+        "position": 10,
+        "user": "none"
+      },
+      {
+        "position": 11,
+        "user": "none"
+      }
+    ]
+  },
+  {
+    "inviteCode": "레버쿠젠",
+    "formation": "343",
+    "users": [
+      "흐라데츠키",
+      "탑소바",
+      "타",
+      "힌카피",
+      "프림퐁",
+      "그리말도",
+      "팔라시오스",
+      "호프만",
+      "비르츠",
+      "쉬크",
+      "아즈문",
+      "test"
+    ],
+    "positions": [
+      {
+        "position": 1,
+        "user": "none"
+      },
+      {
+        "position": 2,
+        "user": "none"
+      },
+      {
+        "position": 3,
+        "user": "none"
+      },
+      {
+        "position": 4,
+        "user": "none"
+      },
+      {
+        "position": 5,
+        "user": "none"
+      },
+      {
+        "position": 6,
+        "user": "none"
+      },
+      {
+        "position": 7,
+        "user": "none"
+      },
+      {
+        "position": 8,
+        "user": "none"
+      },
+      {
+        "position": 9,
+        "user": "none"
+      },
+      {
+        "position": 10,
+        "user": "none"
+      },
+      {
+        "position": 11,
+        "user": "none"
+      }
+    ]
+  }
+]

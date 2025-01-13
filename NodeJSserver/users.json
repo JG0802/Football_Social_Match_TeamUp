@@ -1,0 +1,513 @@
+[
+  {
+    "username": "이운재",
+    "password": "1234",
+    "positions": [
+      "GK",
+      "GK",
+      "GK"
+    ]
+  },
+  {
+    "username": "홍명보",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "LCB",
+      "CDM"
+    ]
+  },
+  {
+    "username": "최진철",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "RCB",
+      "CDM"
+    ]
+  },
+  {
+    "username": "김태영",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "LCB",
+      "LB"
+    ]
+  },
+  {
+    "username": "송종국",
+    "password": "1234",
+    "positions": [
+      "RB",
+      "RM",
+      "LB"
+    ]
+  },
+  {
+    "username": "유상철",
+    "password": "1234",
+    "positions": [
+      "CDM",
+      "CM",
+      "CAM"
+    ]
+  },
+  {
+    "username": "이영표",
+    "password": "1234",
+    "positions": [
+      "LB",
+      "LM",
+      "RM"
+    ]
+  },
+  {
+    "username": "박지성",
+    "password": "1234",
+    "positions": [
+      "RM",
+      "CM",
+      "CAM"
+    ]
+  },
+  {
+    "username": "설기현",
+    "password": "1234",
+    "positions": [
+      "RW",
+      "RM",
+      "LW"
+    ]
+  },
+  {
+    "username": "황선홍",
+    "password": "1234",
+    "positions": [
+      "ST",
+      "CAM",
+      "LW"
+    ]
+  },
+  {
+    "username": "안정환",
+    "password": "1234",
+    "positions": [
+      "ST",
+      "CAM",
+      "RW"
+    ]
+  },
+  {
+    "username": "오나나",
+    "password": "1234",
+    "positions": [
+      "GK"
+    ]
+  },
+  {
+    "username": "달롯",
+    "password": "1234",
+    "positions": [
+      "RB",
+      "LB",
+      "RM"
+    ]
+  },
+  {
+    "username": "바란",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "RCB",
+      "CDM"
+    ]
+  },
+  {
+    "username": "마르티네스",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "LCB",
+      "LB"
+    ]
+  },
+  {
+    "username": "쇼",
+    "password": "1234",
+    "positions": [
+      "LB",
+      "LCB",
+      "LM"
+    ]
+  },
+  {
+    "username": "카세미루",
+    "password": "1234",
+    "positions": [
+      "CDM",
+      "CM",
+      "CB"
+    ]
+  },
+  {
+    "username": "에릭센",
+    "password": "1234",
+    "positions": [
+      "CM",
+      "CAM",
+      "CDM"
+    ]
+  },
+  {
+    "username": "페르난데스",
+    "password": "1234",
+    "positions": [
+      "CAM",
+      "CM",
+      "RM"
+    ]
+  },
+  {
+    "username": "래시포드",
+    "password": "1234",
+    "positions": [
+      "LW",
+      "ST",
+      "RW"
+    ]
+  },
+  {
+    "username": "안토니",
+    "password": "1234",
+    "positions": [
+      "RW",
+      "LW",
+      "RM"
+    ]
+  },
+  {
+    "username": "호일룬",
+    "password": "1234",
+    "positions": [
+      "ST",
+      "CAM",
+      "LW"
+    ]
+  },
+  {
+    "username": "알리송",
+    "password": "1234",
+    "positions": [
+      "GK",
+      "GK",
+      "GK"
+    ]
+  },
+  {
+    "username": "알렉산더아놀드",
+    "password": "1234",
+    "positions": [
+      "RB",
+      "RM",
+      "CM"
+    ]
+  },
+  {
+    "username": "반다이크",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "RCB",
+      "LCB"
+    ]
+  },
+  {
+    "username": "로버트슨",
+    "password": "1234",
+    "positions": [
+      "LB",
+      "LM",
+      "RM"
+    ]
+  },
+  {
+    "username": "코나테",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "RCB",
+      "LCB"
+    ]
+  },
+  {
+    "username": "맥알리스터",
+    "password": "1234",
+    "positions": [
+      "CM",
+      "CAM",
+      "CDM"
+    ]
+  },
+  {
+    "username": "소보슬라이",
+    "password": "1234",
+    "positions": [
+      "CM",
+      "CAM",
+      "RM"
+    ]
+  },
+  {
+    "username": "디아스",
+    "password": "1234",
+    "positions": [
+      "LW",
+      "LM",
+      "ST"
+    ]
+  },
+  {
+    "username": "살라",
+    "password": "1234",
+    "positions": [
+      "RW",
+      "RM",
+      "LW"
+    ]
+  },
+  {
+    "username": "누녜스",
+    "password": "1234",
+    "positions": [
+      "ST",
+      "LW",
+      "RW"
+    ]
+  },
+  {
+    "username": "조타",
+    "password": "1234",
+    "positions": [
+      "ST",
+      "LW",
+      "RW"
+    ]
+  },
+  {
+    "username": "줌머",
+    "password": "1234",
+    "positions": [
+      "GK",
+      "GK",
+      "GK"
+    ]
+  },
+  {
+    "username": "슈크리니아르",
+    "password": "1234",
+    "positions": [
+      "RCB",
+      "CB",
+      "RB"
+    ]
+  },
+  {
+    "username": "데브리",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "LCB",
+      "RCB"
+    ]
+  },
+  {
+    "username": "바스토니",
+    "password": "1234",
+    "positions": [
+      "LCB",
+      "CB",
+      "LB"
+    ]
+  },
+  {
+    "username": "둠프리스",
+    "password": "1234",
+    "positions": [
+      "RM",
+      "RB",
+      "RW"
+    ]
+  },
+  {
+    "username": "바렐라",
+    "password": "1234",
+    "positions": [
+      "CM",
+      "RM",
+      "CAM"
+    ]
+  },
+  {
+    "username": "차르하노글루",
+    "password": "1234",
+    "positions": [
+      "CDM",
+      "CM",
+      "CAM"
+    ]
+  },
+  {
+    "username": "브로조비치",
+    "password": "1234",
+    "positions": [
+      "CM",
+      "CDM",
+      "CB"
+    ]
+  },
+  {
+    "username": "디마르코",
+    "password": "1234",
+    "positions": [
+      "LM",
+      "LB",
+      "LW"
+    ]
+  },
+  {
+    "username": "마르티네스",
+    "password": "1234",
+    "positions": [
+      "ST",
+      "CAM",
+      "RW"
+    ]
+  },
+  {
+    "username": "제코",
+    "password": "1234",
+    "positions": [
+      "ST",
+      "LW",
+      "RW"
+    ]
+  },
+  {
+    "username": "흐라데츠키",
+    "password": "1234",
+    "positions": [
+      "GK",
+      "GK",
+      "GK"
+    ]
+  },
+  {
+    "username": "탑소바",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "RCB",
+      "LCB"
+    ]
+  },
+  {
+    "username": "타",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "RCB",
+      "LCB"
+    ]
+  },
+  {
+    "username": "힌카피",
+    "password": "1234",
+    "positions": [
+      "CB",
+      "LCB",
+      "LB"
+    ]
+  },
+  {
+    "username": "프림퐁",
+    "password": "1234",
+    "positions": [
+      "RWB",
+      "RB",
+      "RM"
+    ]
+  },
+  {
+    "username": "그리말도",
+    "password": "1234",
+    "positions": [
+      "LWB",
+      "LB",
+      "LM"
+    ]
+  },
+  {
+    "username": "팔라시오스",
+    "password": "1234",
+    "positions": [
+      "CM",
+      "CDM",
+      "CAM"
+    ]
+  },
+  {
+    "username": "호프만",
+    "password": "1234",
+    "positions": [
+      "CM",
+      "CAM",
+      "RM"
+    ]
+  },
+  {
+    "username": "비르츠",
+    "password": "1234",
+    "positions": [
+      "CAM",
+      "RW",
+      "LW"
+    ]
+  },
+  {
+    "username": "보니페이스",
+    "password": "1234",
+    "positions": [
+      "ST",
+      "CF",
+      "LW"
+    ]
+  },
+  {
+    "username": "아다미 흐로섹",
+    "password": "1234",
+    "positions": [
+      "LW",
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "username": "test",
+    "password": "1234",
+    "positions": [
+      "LW",
+      "RW",
+      "ST"
+    ]
+  },
+  {
+    "username": "test2",
+    "password": "1234",
+    "positions": [
+      "LCB",
+      "LB",
+      "CB"
+    ]
+  }
+]
